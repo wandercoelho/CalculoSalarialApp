@@ -1,0 +1,2 @@
+# CalculoSalarialApp
+APP Cálculo Salarial
